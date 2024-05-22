@@ -1,3 +1,10 @@
+# [1.1.0-develop.1](https://github.com/jwulf/release-test/compare/v1.0.0...v1.1.0-develop.1) (2024-05-22)
+
+
+### Features
+
+* implement feature 1 ([5467dc2](https://github.com/jwulf/release-test/commit/5467dc2e09ffff53223155baea9eea3802ed3d82))
+
 # 1.0.0 (2024-05-22)
 
 
